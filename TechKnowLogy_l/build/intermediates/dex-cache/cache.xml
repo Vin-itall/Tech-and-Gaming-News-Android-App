@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_033dc881aed127b79242be62b6b99f6699f7e577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\ea2b97a832bb0e9219a11b46dff4dcec446c6821\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_121efc5d3ea250e2cc9dbbbf12e7ca494429d0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\6ece669bddc166f1d95a523ed66f0d7ebcd146f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_85db2e188cf9f0cfe179596f950268f78e30fc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\6fd8e1cfe6a70f2ab3b4a6d8a56460d33a3dd875\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_ffc7f09c093ea215bb59ac68e41b75cb8177524b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\5a1b93971c83f3e6fd89232ed45debbeb4d9ee08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_badf54eb1ecdfd62e60d11e8478e2cc48923fbcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\1c38bc41f12cf451d32d8637846479f3cbad1618\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_71c37f3b3660b5b94e5b759962381b07299bd68e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\f3ad0488ebbe96307dd908d3f0bcdd2942c86ab3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_90865c1a9b3a5baccb227086f20f4f1cdee177b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\05eb877d3263bccaf517d257312b4525e956c39b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_063b610156ce53f29ca75a718b383bd66e494e31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_f1827bc50348e2ddb106f5891fc7d32ce446f4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\3ff48e539f504e7515610ae64aabe2f3b8090cc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_c883cdd8b46feebc6bee888cd2ca21486b05704d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\9cb1c6991599e7e3e518b15da2e45dbc361c616c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_984ea8d376221eeb83b38adaaca77dcb61ba903b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\603f2697f193bd899268d77e4053bf4f908ec705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_cd0b92a06b7e84869369dd0ca12cd5119a2b3ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chira\.android\build-cache\9cb1c6991599e7e3e518b15da2e45dbc361c616c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\chira\Desktop\Sem 5\Projects\TechKnowLogy_l\app\build\intermediates\pre-dexed\debug\classes_ce3d6b0b7ea1917d0f7842222745e2671b553107.jar" />
+    </item>
+
+</items>

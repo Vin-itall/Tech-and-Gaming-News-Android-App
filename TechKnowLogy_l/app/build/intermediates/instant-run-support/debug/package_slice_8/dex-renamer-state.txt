@@ -1,0 +1,4 @@
+#Fri Jun 16 10:56:03 IST 2017
+base.0=C\:\\TAG-app-xml--master\\TechKnowLogy_l\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\TAG-app-xml--master\\TechKnowLogy_l\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

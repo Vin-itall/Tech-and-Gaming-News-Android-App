@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892979405017",
+    "firebase_url": "https://techknowlogyl-e05cf.firebaseio.com",
+    "project_id": "techknowlogyl-e05cf",
+    "storage_bucket": "techknowlogyl-e05cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892979405017:android:18a0db238e50b994",
+        "android_client_info": {
+          "package_name": "com.example.atmc.techknowlogy_l"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892979405017-ja0ut831iek258dbavjgdavjaeu0s0lj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atmc.techknowlogy_l",
+            "certificate_hash": "7a1bf3c903dd26a055f90323d9a1774d631cf3d2"
+          }
+        },
+        {
+          "client_id": "892979405017-qj3ga62da0qcfojjjesjd25trriquj49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9r9031L7QPTJ3TFuEWjfnq22kj_Sz5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892979405017-qj3ga62da0qcfojjjesjd25trriquj49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

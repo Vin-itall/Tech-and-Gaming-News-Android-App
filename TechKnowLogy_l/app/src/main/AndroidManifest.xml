@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.atmc.techknowlogy_l">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/smartphone"
+        android:label="TechKnowLogy"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="TechKnowLogy"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".recycle1"
+            android:label="Tech News"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".recycle_2"
+            android:allowBackup="true"
+            android:label="Game News"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".BuildAPC"
+            android:allowBackup="true"
+            android:label="Build A PC"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            />
+        <activity android:name=".ContactMe"
+            android:allowBackup="true"
+            android:label="Build A PC"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>
